@@ -20,6 +20,6 @@
   "homepage": "https://github.com/athanclark/purescript-bignumber#readme",
   "description": "",
   "dependencies": {
-    "bignumber.js": "^7.2.1"
+    "bignumber.js": "^9.0.1"
   }
 }
